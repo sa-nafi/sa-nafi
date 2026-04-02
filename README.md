@@ -46,7 +46,7 @@ An ESP32-powered web app that translates text to Morse code in real time - compl
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nafi-blue?style=flat&logo=linkedin)](www.linkedin.com/in/shariar-abdullah-nafi-4b7678344/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nafi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sa-nafi/)
 <!---
 sa-nafi/sa-nafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
