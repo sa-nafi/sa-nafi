@@ -18,11 +18,11 @@ Currently learning Go and Rust.
 
 ## Featured Projects
 
-### [Nirnoy](https://github.com/noor-global/nirnoy-dev)
+### [Nirnoy](https://github.com/nuvic-org/nirnoy-dev)
 An online judge platform built to handle concurrent code submissions at scale. Designed with an isolated execution pipeline in Go and a Python-based backend.
 `Python` `Golang` `TypeScript`
 
-### [Shonkha](https://github.com/noor-global/shonkha-dev)
+### [Shonkha](https://github.com/nuvic-org/shonkha-dev)
 A mathematical platform with a focus on structured problem-solving workflows. Powers the academic side of [noor-global](https://github.com/noor-global)'s ecosystem.
 `TypeScript` `Python`
 
@@ -38,7 +38,7 @@ An ESP32-powered web app that translates text to Morse code in real time - compl
 
 ## Organizations
 
-**[noor-global](https://github.com/noor-global)** - Building core platforms: Nirnoy, Shonkha, Roam etc.
+**[nuvic](https://github.com/nuvic-org)** - Building core platforms: Nirnoy, Shonkha, Roam etc.
 
 **[Ibtikar-Labs](https://github.com/Ibtikar-Labs)** - Developing embedded systems solutions.
 
