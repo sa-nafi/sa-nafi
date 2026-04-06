@@ -23,7 +23,7 @@ An online judge platform built to handle concurrent code submissions at scale. D
 `Python` `Golang` `TypeScript`
 
 ### [Shonkha](https://github.com/nuvic-org/shonkha-dev)
-A mathematical platform with a focus on structured problem-solving workflows. Powers the academic side of [noor-global](https://github.com/noor-global)'s ecosystem.
+A mathematical platform with a focus on structured problem-solving workflows. Powers the academic side of [nuvic](https://github.com/nuvic-org)'s ecosystem.
 `TypeScript` `Python`
 
 ### [CafeOJ](https://github.com/sa-nafi/CafeOJ)
