@@ -17,18 +17,25 @@ Currently learning Go and Rust.
 ---
 
 ## Featured Projects
+### [Zarf](https://github.com/tech-nuvic/zarf)
+An AI-powered interview preparation chatbot for software engineering roles, built using RAG.
+`Python` `TypeScript`
+
+### [Shonkha](https://github.com/tech-nuvic/shonkha-dev)
+A mathematical platform with a focus on structured problem-solving workflows. Powers the academic side of [nuvic](https://github.com/nuvic-org)'s ecosystem.
+`Python` `TypeScript`
 
 ### [Nirnoy](https://github.com/tech-nuvic/nirnoy-dev)
 An online judge platform built to handle concurrent code submissions at scale. Designed with an isolated execution pipeline in Go and a Python-based backend.
 `Python` `Golang` `TypeScript`
 
-### [Shonkha](https://github.com/tech-nuvic/shonkha-dev)
-A mathematical platform with a focus on structured problem-solving workflows. Powers the academic side of [nuvic](https://github.com/nuvic-org)'s ecosystem.
-`TypeScript` `Python`
-
 ### [CafeOJ](https://github.com/sa-nafi/CafeOJ)
 A lightweight, Docker-ready online judge for self-hosting. Built with Spring Boot - deployable in minutes.
 `Java` `Spring Boot` `Docker`
+
+### [ESP-Quiz](https://github.com/sa-nafi/ESP-Quiz)
+An AI enabled, high-speed, zero-delay, web based quiz game platform using an ESP32 and WebSockets, paired with custom hardware logic gates for perfect first-press detection. 
+`C/C++` `ESP32` `Embedded Systems`
 
 ### [ESP32-Morse](https://github.com/sa-nafi/ESP32-Morse)
 An ESP32-powered web app that translates text to Morse code in real time - complete with buzzer audio, LED blink feedback, and a scrolling 16x2 I2C LCD display.
