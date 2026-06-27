@@ -12,7 +12,7 @@ Currently learning Go and Rust.
 
 **Backend** &nbsp;|&nbsp; Django · FastAPI · net/http · Spring Boot
 
-**Infrastructure** &nbsp;|&nbsp; PostgreSQL · RabbitMQ · Docker
+**Infrastructure** &nbsp;|&nbsp; PostgreSQL · Redis · Docker
 
 ---
 
