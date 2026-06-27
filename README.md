@@ -45,9 +45,9 @@ An ESP32-powered web app that translates text to Morse code in real time - compl
 
 ## Organizations
 
-**[Noor Technologies](https://github.com/tech-nuvic)** - Building software solutions for individuals and businesses.
+**[Noor Technologies](https://github.com/tech-nuvic)** - Building core platforms such as Zarf, Shonkha, Nirnoy and Roam.
 
-**[Noor Agency](https://github.com/agency-nuvic)** - Building core platforms such as Zarf, Shonkha, Nirnoy and Roam.
+**[Noor Agency](https://github.com/agency-nuvic)** - Building software solutions for individuals and businesses.
 
 **[Ibtikar Labs](https://github.com/Ibtikar-Labs)** - Building embedded systems solutions.
 
