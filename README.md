@@ -27,7 +27,7 @@ A healthcare facility information system, built using net/http, React & PostgreS
 ### [Zarf](https://github.com/tech-nuvic/zarf)
 An AI-powered interview preparation chatbot for software engineering roles, built using Django, NextJS, Redis, PostgreSQL & RAG pipeline. `Python` `Typescript`
 
-### [Shonkha](https://github.com/tech-nuvic/shonkha-dev)
+### [Shonkha](https://github.com/tech-nuvic/shonkha)
 A mathematical platform with a focus on structured problem-solving workflows, built using Django, React, Redis & PostgreSQL. `Python` `Typescript`
 
 ---
