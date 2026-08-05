@@ -1,4 +1,4 @@
-# Hi, I'm Nafi
+## Hi, I'm Nafi
 
 I’m a software developer specializing in backend development. I also practice problem solving on [Codeforces](https://codeforces.com/profile/uvwxz).
 
@@ -17,37 +17,24 @@ Currently learning Go and Rust.
 ---
 
 ## Featured Projects
+
+### [Iter](https://iter.numenlabs.tech)
+An interactive mathematical algorithms visualizer, built using React & Supabase. `Typescript`
+
+### [MediQ](https://github.com/sa-nafi/mediq)
+A healthcare facility information system, built using net/http, React & PostgreSQL. `Golang` `Typescript`
+
 ### [Zarf](https://github.com/tech-nuvic/zarf)
-An AI-powered interview preparation chatbot for software engineering roles, built using RAG.
-`Python` `TypeScript`
+An AI-powered interview preparation chatbot for software engineering roles, built using Django, NextJS, Redis, PostgreSQL & RAG pipeline. `Python` `Typescript`
 
 ### [Shonkha](https://github.com/tech-nuvic/shonkha-dev)
-A mathematical platform with a focus on structured problem-solving workflows. Powers the academic side of [nuvic](https://github.com/nuvic-org)'s ecosystem.
-`Python` `TypeScript`
-
-### [Nirnoy](https://github.com/tech-nuvic/nirnoy-dev)
-An online judge platform built to handle concurrent code submissions at scale. Designed with an isolated execution pipeline in Go and a Python-based backend.
-`Python` `Golang` `TypeScript`
-
-### [CafeOJ](https://github.com/sa-nafi/CafeOJ)
-A lightweight, Docker-ready online judge for self-hosting. Built with Spring Boot - deployable in minutes.
-`Java` `Spring Boot` `Docker`
-
-### [ESP-Quiz](https://github.com/sa-nafi/ESP-Quiz)
-An AI enabled, high-speed, zero-delay, web based quiz game platform using an ESP32 and WebSockets, paired with custom hardware logic gates for perfect first-press detection. 
-`C/C++` `ESP32` `Embedded Systems`
-
-### [ESP32-Morse](https://github.com/sa-nafi/ESP32-Morse)
-An ESP32-powered web app that translates text to Morse code in real time - complete with buzzer audio, LED blink feedback, and a scrolling 16x2 I2C LCD display.
-`C/C++` `ESP32` `Embedded Systems`
+A mathematical platform with a focus on structured problem-solving workflows, built using Django, React, Redis & PostgreSQL. `Python` `Typescript`
 
 ---
 
 ## Organizations
 
 **[Noor Technologies](https://github.com/tech-nuvic)** - Building core platforms such as Zarf, Shonkha, Nirnoy and Roam.
-
-**[Noor Agency](https://github.com/agency-nuvic)** - Building software solutions for individuals and businesses.
 
 **[Ibtikar Labs](https://github.com/Ibtikar-Labs)** - Building embedded systems solutions.
 
