@@ -19,16 +19,19 @@ Currently learning Go and Rust.
 ## Featured Projects
 
 ### [Iter](https://iter.numenlabs.tech)
-An interactive mathematical algorithms visualizer, built using React & Supabase. `Typescript`
+An interactive mathematical algorithms visualizer. `Typescript` `React` `Supabase`
+
+### [Vipr](https://github.com/sa-nafi/vipr)
+A statically typed, ahead-of-time compiled programming language designed for simplicity, readability, and learning. `Rust`
 
 ### [MediQ](https://github.com/sa-nafi/mediq)
-A healthcare facility information system, built using net/http, React & PostgreSQL. `Golang` `Typescript`
+A healthcare facility information management system. `Golang` `Typescript` `net/http` `React` `PostgreSQL`
 
 ### [Zarf](https://github.com/tech-nuvic/zarf)
-An AI-powered interview preparation chatbot for software engineering roles, built using Django, NextJS, Redis, PostgreSQL & RAG pipeline. `Python` `Typescript`
+An AI-powered interview preparation chatbot for software engineering roles. `Python` `Typescript` `Django` `NextJS` `Redis` `PostgreSQL` `RAG`
 
 ### [Shonkha](https://github.com/tech-nuvic/shonkha)
-A mathematical platform with a focus on structured problem-solving workflows, built using Django, React, Redis & PostgreSQL. `Python` `Typescript`
+A mathematical platform with a focus on structured problem-solving workflows. `Python` `Typescript` `Django` `React` `Redis` `PostgreSQL`
 
 ---
 
