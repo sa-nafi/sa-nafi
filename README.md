@@ -18,7 +18,7 @@ Currently learning Go and Rust.
 
 ## Featured Projects
 
-### [Iter](https://iter.numenlabs.tech)
+### [Iter](https://github.com/sa-nafi/iter)
 An interactive mathematical algorithms visualizer. `Typescript` `React` `Supabase`
 
 ### [Vipr](https://github.com/sa-nafi/vipr)
