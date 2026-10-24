@@ -18,6 +18,9 @@ Currently learning Go and Rust.
 
 ## Featured Projects
 
+### [BasaKoi](https://basakoi.tech)
+Housing discovery platform targeted for students. `React` `Django` `PostgreSQL` `Redis` `Sentry`
+
 ### [Iter](https://github.com/sa-nafi/iter)
 An interactive mathematical algorithms visualizer. `Typescript` `React` `Supabase`
 
