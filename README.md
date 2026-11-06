@@ -8,11 +8,13 @@ Currently learning Go and Rust.
 
 ## Tech Stack
 
-**Languages** &nbsp;|&nbsp; C/C++ · Python · Golang · Rust · Java
+**Languages** &nbsp;|&nbsp; C/C++ · Python · Golang · Rust · JavaScript · TypeScript · Java
 
-**Backend** &nbsp;|&nbsp; Django · FastAPI · net/http · Spring Boot
+**Backend** &nbsp;|&nbsp; Django · FastAPI · net/http · Express.js · Spring Boot 
 
-**Infrastructure** &nbsp;|&nbsp; PostgreSQL · Redis · Docker
+**Frontend** &nbsp;|&nbsp; React · NextJS
+
+**Infrastructure** &nbsp;|&nbsp; PostgreSQL · Redis · RabbitMQ · Docker
 
 ---
 
