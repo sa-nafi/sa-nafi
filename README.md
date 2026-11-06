@@ -2,19 +2,35 @@
 
 I’m a software developer specializing in backend development. I also practice problem solving on [Codeforces](https://codeforces.com/profile/uvwxz).
 
-Currently learning Go and Rust.
-
 ---
 
 ## Tech Stack
 
-**Languages** &nbsp;|&nbsp; C/C++ · Python · Golang · Rust · JavaScript · TypeScript · Java
+### Languages
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-18181b?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-18181b?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-18181b?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-18181b?style=flat-square&logo=openjdk&logoColor=white)
 
-**Backend** &nbsp;|&nbsp; Django · FastAPI · net/http · Express.js · Spring Boot 
+### Backend
+![Django](https://img.shields.io/badge/Django-18181b?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-18181b?style=flat-square&logo=fastapi&logoColor=white)
+![net/http](https://img.shields.io/badge/net%2Fhttp-18181b?style=flat-square&logo=go&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-18181b?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-18181b?style=flat-square&logo=springboot&logoColor=white)
 
-**Frontend** &nbsp;|&nbsp; React · NextJS
+### Frontend
+![React](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-18181b?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**Infrastructure** &nbsp;|&nbsp; PostgreSQL · Redis · RabbitMQ · Docker
+### Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-18181b?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-18181b?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
